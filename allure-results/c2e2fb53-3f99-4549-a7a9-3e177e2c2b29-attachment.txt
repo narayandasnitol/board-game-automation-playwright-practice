@@ -1,0 +1,8 @@
+2025-07-13 17:52 [INFO]: ############## New Test Begin ##############
+2025-07-13 17:52 [INFO]: **** TC-002: API Automation - Add a new list, Delete the newly created list. ****
+2025-07-13 17:52 [INFO]: Board name inputted successfully!
+2025-07-13 17:52 [INFO]: Board name verified successfully!
+2025-07-13 17:52 [INFO]: Board number: 24
+2025-07-13 17:52 [INFO]: List created via API with id: 30
+2025-07-13 17:52 [INFO]: ############## Test End ##############
+

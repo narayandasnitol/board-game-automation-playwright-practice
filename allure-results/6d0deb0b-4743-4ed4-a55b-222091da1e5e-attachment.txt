@@ -1,0 +1,11 @@
+2025-07-13 18:12 [INFO]: ############## New Test Begin ##############
+2025-07-13 18:12 [INFO]: **** TC-001: Input a Board name, press enter. Verify Board created successfully. ****
+2025-07-13 18:12 [INFO]: Board name inputted successfully!
+2025-07-13 18:12 [INFO]: Board name verified successfully!
+2025-07-13 18:12 [INFO]: Two lists added successfully!
+2025-07-13 18:12 [INFO]: List 1 verified successfully!
+2025-07-13 18:12 [INFO]: List 2 verified successfully!
+2025-07-13 18:12 [INFO]: First list deleted successfully!
+2025-07-13 18:12 [INFO]: List names found after deletion: [List 2]
+2025-07-13 18:12 [INFO]: ############## Test End ##############
+

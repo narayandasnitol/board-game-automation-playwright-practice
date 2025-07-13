@@ -1,0 +1,18 @@
+2025-07-13 17:24 [INFO]: ############## New Test Begin ##############
+2025-07-13 17:24 [INFO]:  **** TC-001: Input a Board name, press enter. Verify Board created successfully. **** 
+2025-07-13 17:24 [INFO]: Board name inputted successfully!
+2025-07-13 17:24 [INFO]: Board name verified successfully!
+[
+  '/board/14',
+  '14',
+  index: 21,
+  input: 'http://localhost:3000/board/14',
+  groups: undefined
+]
+2025-07-13 17:24 [INFO]: Two lists added successfully!
+2025-07-13 17:24 [INFO]: List 1 verified successfully!
+2025-07-13 17:24 [INFO]: List 2 verified successfully!
+2025-07-13 17:24 [INFO]: First list deleted successfully!
+2025-07-13 17:24 [INFO]: List names found after deletion: [List 2]
+2025-07-13 17:24 [INFO]: ############## Test End ##############
+

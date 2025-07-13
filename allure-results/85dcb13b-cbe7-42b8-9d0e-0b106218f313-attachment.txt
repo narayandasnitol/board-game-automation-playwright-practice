@@ -1,0 +1,11 @@
+2025-07-13 18:09 [INFO]: ############## New Test Begin ##############
+2025-07-13 18:09 [INFO]: **** TC-002: API Automation - Add two lists, Delete one, Verify remaining. ****
+2025-07-13 18:09 [INFO]: Board name inputted successfully!
+2025-07-13 18:09 [INFO]: Board name verified successfully!
+2025-07-13 18:09 [INFO]: Board number extracted from URL: 42
+2025-07-13 18:09 [INFO]: List 1 created via API with id: 51
+2025-07-13 18:09 [INFO]: List 2 created via API with id: 52
+2025-07-13 18:09 [INFO]: List 1 deleted via API with id: 51
+2025-07-13 18:09 [INFO]: List names found after deletion: [API List 2]
+2025-07-13 18:09 [INFO]: ############## Test End ##############
+

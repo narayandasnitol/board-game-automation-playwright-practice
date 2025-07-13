@@ -1,0 +1,5 @@
+2025-07-13 16:53 [INFO]:  ############## New Test Begin ############## 
+2025-07-13 16:53 [INFO]: 🌟 **** Testcase - TC-001 : Input a Board name, press enter. Verify Board created successfully. **** 🌟
+2025-07-13 16:53 [INFO]: Board name inputted successfully!
+2025-07-13 16:53 [INFO]:  ############## Test End ############## 
+
